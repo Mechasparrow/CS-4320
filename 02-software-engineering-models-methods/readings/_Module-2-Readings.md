@@ -4,7 +4,7 @@
 - [Chapters Four and Five](./Goggins-2020-WIP.pdf)
 
 ## Software Engineering Models and Methods
-- SWEBOK Chapter 9
+- [SWEBOK Chapter 9](./SWEBOKv3.pdf)
 - [Comparative Analysis of Software Engineering Models from Traditional to
 Modern Methodologies](./Comparative-Analysis-of-Software-Engineering-Models-from-Traditional-to-Modern-Methodologies.pdf)
 
